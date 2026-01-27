@@ -6,6 +6,7 @@ Node.js環境で動作する、Discordサーバー荒らしBotです。
 ## 必要要件
 * **[Node.js v16 以上](https://nodejs.org/)**
 * Discord Bot Token (Privileged Intents: **Message Content Intent**, **Server Members Intent** が必須)
+* 使用モジュール: discord.js dotenv fs
 
 ## 📂 ディレクトリ構成
 本スクリプトを配置するフォルダの構成例です。
